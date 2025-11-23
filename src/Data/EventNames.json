@@ -1,0 +1,8 @@
+{
+    "OnMessageSent": "messageCreate",
+    "OnReady": "ready",
+    "OnSurprise": "surprise",
+    "OnWhoopie": "whoopie",
+    "OnMessageReactionAdd": "reactionAdd",
+    "OnMessageReactionRemove": "reactionRemove"
+}
